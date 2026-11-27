@@ -5,3 +5,6 @@ print(sum)
 
 sub=a-b
 print(sub)
+
+multi=a*b
+print(multi)
